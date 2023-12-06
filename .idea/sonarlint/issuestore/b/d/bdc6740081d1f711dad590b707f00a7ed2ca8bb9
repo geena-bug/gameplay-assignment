@@ -1,0 +1,24 @@
+
+>
+java:S1116	"Remove this empty statement.(Åñ­õşÿÿÿÿ8ø˜¡óÃ1
+G	java:S106Z"+Replace this use of System.out by a logger.(×‚Ñ‡8ı˜¡óÃ1
+G	java:S106n"+Replace this use of System.out by a logger.(˜ñâö8Î›ôÃ1
+L	java:S106q"+Replace this use of System.out by a logger.(ì¤ÖÂùÿÿÿÿ8Î›ôÃ1
+L	java:S106s"+Replace this use of System.out by a logger.(Ÿ±ßøÿÿÿÿ8Î›ôÃ1
+G	java:S106x"+Replace this use of System.out by a logger.(Ğ™8Î›ôÃ1
+F	java:S106y"+Replace this use of System.out by a logger.(’™ÿ8Î›ôÃ1
+L	java:S106}"+Replace this use of System.out by a logger.(ÔÅÃûüÿÿÿÿ8Î›ôÃ1
+G	java:S106•"+Replace this use of System.out by a logger.(ì«”x8‘Î›ôÃ1
+M	java:S106¥"+Replace this use of System.out by a logger.(ŒŠúôıÿÿÿÿ8’Î›ôÃ1
+H	java:S106¹"+Replace this use of System.out by a logger.(ÆÀûı8‚™¡óÃ1
+M	java:S106É"+Replace this use of System.out by a logger.(’Ú…ùùÿÿÿÿ8”Î›ôÃ1
+H	java:S106Î"+Replace this use of System.out by a logger.(ÆÀûı8•Î›ôÃ1
+H	java:S106Ñ"+Replace this use of System.out by a logger.(ÆÀûı8•Î›ôÃ1
+M	java:S106Ù"+Replace this use of System.out by a logger.(ãÓõ·øÿÿÿÿ8•Î›ôÃ1
+H	java:S106Ü"+Replace this use of System.out by a logger.(ÆÀûı8–Î›ôÃ1
+u
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ş·úìøÿÿÿÿ8–Î›ôÃ1
+_
+java:S1126µ"AReplace this if-then-else statement by a single return statement.(€•êÌ8˜Î›ôÃ1
+d
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(‘ò·ûÿÿÿÿ8™Î›ôÃ1
